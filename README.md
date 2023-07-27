@@ -1,6 +1,6 @@
 # Relógio Simples - README
 
-![Clock](imagens/clock-animated.gif) 
+![Clock](imagens/giphy.gif) 
 
 ## Descrição
 
