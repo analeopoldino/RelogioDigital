@@ -1,6 +1,6 @@
 # Relógio Simples - README
 
-![Clock](clock.png) _(Substitua "clock.png" com o caminho da imagem do seu relógio)_
+![Clock](imagens/digital-clock_rd.png) 
 
 ## Descrição
 
