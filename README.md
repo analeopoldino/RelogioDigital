@@ -11,32 +11,6 @@ Bem-vindo ao Relógio Simples! Este é um projeto desenvolvido com HTML, CSS e J
 - Exibição do horário atual em formato digital.
 - Relógio atualizado em tempo real.
 
-## Demo
-
-Veja uma demo do projeto em ação [aqui](https://seu-link-demo-aqui).
-
-## Captura de Tela
-
-_Adicione uma captura de tela do seu projeto para mostrar como é o visual do relógio._
-
-![Screenshot](screenshot.png)
-
-## Como Executar o Projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
-
-2. Navegue até o diretório do projeto:
-
-```bash
-cd nome-do-repositorio
-```
-
-3. Abra o arquivo `index.html` em um navegador web.
-
 ## Estrutura do Projeto
 
 O projeto é composto por três arquivos principais:
@@ -45,27 +19,21 @@ O projeto é composto por três arquivos principais:
 2. `style.css` - Arquivo de estilos CSS para dar uma aparência ao relógio.
 3. `script.js` - Arquivo JavaScript para a lógica do relógio.
 
-## Contribuição
+## Demo
 
-Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga os passos abaixo:
+Veja uma demo do projeto em ação [aqui](https://analeopoldino.github.io/RelogioDigital/).
 
-1. Fork o repositório.
-2. Crie um branch para a sua feature (`git checkout -b feature/sua-feature`).
-3. Faça o commit das mudanças (`git commit -m 'Adiciona nova feature'`).
-4. Faça o push para o branch (`git push origin feature/sua-feature`).
-5. Abra um Pull Request.
+## Como Executar o Projeto
 
-## Licença
+Acesse o link [aqui](https://analeopoldino.github.io/RelogioDigital/) para testar o quiz em seu navegador.
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+## Referência
 
-## Contato
+Este projeto foi desenvolvido com base em um vídeo tutorial do canal "Larissa Kich" no YouTube. O vídeo que utilizei como referência pode ser encontrado [aqui](https://youtu.be/GK0ok3ZCXwM).
 
-Se você tiver alguma dúvida ou sugestão, por favor entre em contato:
-
-- Email: seuemail@example.com
-- Twitter: [@seuusuario](https://twitter.com/seuusuario)
+Agradeço ao canal Larissa Kich pela excelente explicação e orientação que me ajudaram a criar este Quiz.
 
 ---
 
-Obrigado por visitar nosso Relógio Simples! Esperamos que ele possa ser útil para entender como criar um relógio digital usando tecnologias web. Divirta-se usando-o e aprendendo mais sobre desenvolvimento web! 😊
+Obrigado por visitar o site de Relógio Digital! Espero que ele possa servir como um guia útil para o desenvolvimento de projetos mais complexos no futuro. 😄😊
+
