@@ -1,6 +1,6 @@
 # Relógio Simples - README
 
-![Clock](imagens/digital-clock_rd.png) 
+![Clock](imagens/digital-clock_animed.mp4) 
 
 ## Descrição
 
