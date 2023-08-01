@@ -1,5 +1,4 @@
-# Relógio Simples - README
-
+# Relógio Digital 
 ![Clock](imagens/giphy.gif) 
 
 
