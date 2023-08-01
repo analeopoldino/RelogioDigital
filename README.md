@@ -40,7 +40,7 @@ Se você encontrar algum problema ou tiver sugestões de melhorias, fique à von
 
 Este projeto foi desenvolvido com base em um vídeo tutorial do canal "Larissa Kich" no YouTube. O vídeo que utilizei como referência pode ser encontrado [aqui](https://youtu.be/GK0ok3ZCXwM).
 
-Agradeço ao canal Larissa Kich pela excelente explicação e orientação que me ajudaram a criar este Relógio Digital.
+Agradeço ao canal **Larissa Kich** pela excelente explicação e orientação que me ajudaram a criar este Relógio Digital.
 
 ---
 
