@@ -2,17 +2,7 @@
 ![Clock](imagens/giphy.gif) 
 
 
-## Descrição
-
-
 Este é um projeto desenvolvido com HTML, CSS e JavaScript para criar um relógio digital básico. O objetivo deste projeto é demonstrar como criar um relógio simples usando tecnologias web.
-
-
-## Funcionalidades
-
-
-- Exibição do horário atual em formato digital em horas, minutos e segundos.
-- Relógio atualizado em tempo real.
 
 
 ## Instalação/Como usar
@@ -33,6 +23,17 @@ LINK: https://analeopoldino.github.io/RelogioDigital/
 </p>
 <br>
 
+
+## Funcionalidades
+
+
+* Exibição do horário atual em formato digital em horas, minutos e segundos.
+* Relógio atualizado em tempo real.
+
+
+## Contribuição
+
+Se você encontrar algum problema ou tiver sugestões de melhorias, fique à vontade para abrir uma "issue" ou enviar um "pull request". Sua contribuição é muito bem-vinda!
 
 
 ## Referência
