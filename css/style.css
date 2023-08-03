@@ -48,7 +48,7 @@ body {
     font-size: 0.6rem;
 }
 
-/* Media queries para tablets e dispositivos móveis */
+
 @media (min-width: 481px) and (max-width: 767px) {
     .relogio{
         margin: 0px 15px 0 10px;
@@ -70,7 +70,7 @@ body {
     }
 }
 
-/* Media queries para celulares */
+
 @media  (max-width: 480px) {
     .relogio{
         height: 300px;
